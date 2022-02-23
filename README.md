@@ -1,12 +1,12 @@
 # Progetto_esame_reinforcement_learning
 Developing a portfolio managment strategy with PPO reinforcement learning algorithm.
-RESOURCES
-[PPO](https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/PolicyGradient/PPO/torch/main.py)
-[coding ppo from scratch with pytorch](https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8)
-[another ppo](https://github.com/openai/spinningup/blob/master/docs/algorithms/ppo.rst#saved-model-contents-tensorflow-version)
-[FAMOUS](https://github.com/ZhengyaoJiang/PGPortfolio)
-[other](https://github.com/thomashirtz/portfolio-management/tree/main/notebooks)
-[q learning](https://github.com/pytorch/tutorials/blob/master/intermediate_source/reinforcement_q_learning.py)
+RESOURCES\
+[PPO](https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/PolicyGradient/PPO/torch/main.py)\
+[coding ppo from scratch with pytorch](https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8)\
+[another ppo](https://github.com/openai/spinningup/blob/master/docs/algorithms/ppo.rst#saved-model-contents-tensorflow-version)\
+[FAMOUS](https://github.com/ZhengyaoJiang/PGPortfolio)\
+[other](https://github.com/thomashirtz/portfolio-management/tree/main/notebooks)\
+[q learning](https://github.com/pytorch/tutorials/blob/master/intermediate_source/reinforcement_q_learning.py)\
 Papers:
 * [implemenmtatio tutorial from pytorch of q deep network](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
